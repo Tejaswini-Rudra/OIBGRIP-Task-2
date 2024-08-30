@@ -3,4 +3,4 @@ Oasis InfoByte Web Development Internship Task-2 is about a personal Portfolio W
 ## Technical Skills
 - HTML
 - CSS
-### Website Link: [click here](https://tejaswini-rudra.github.io/OIBGRIP-Task-2/)
+### Website Link: [click here](https://tejaswini-rudra.github.io/OIBSIP_Task-2/)
